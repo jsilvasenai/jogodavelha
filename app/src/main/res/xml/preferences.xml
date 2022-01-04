@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.EditTextPreference
+        android:key="simbolo_jog1"
+        android:summary="@string/simbolo_jog1_summary"
+        android:title="@string/simbolo_jog1_title" />
+
+    <androidx.preference.EditTextPreference
+        android:key="simbolo_jog2"
+        android:summary="@string/simbolo_jog2_summary"
+        android:title="@string/simbolo_jog2_title" />
+</androidx.preference.PreferenceScreen>
